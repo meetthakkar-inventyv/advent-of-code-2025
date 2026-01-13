@@ -8,7 +8,7 @@ Advent of Code is an annual series of Christmas-themed computer programming chal
 
 The project is organized by day, with each folder containing the source code for that specific challenge.
 
-* **day1/** to **day5/**: Contains the C++ source files (e.g., `part1.cpp`, `part2.cpp`).
+* **day1/** to **day6/**: Contains the C++ source files (e.g., `part1.cpp`, `part2.cpp`).
 * **Language**: C++
 * **Environment**: VS Code / Windows PowerShell
 
